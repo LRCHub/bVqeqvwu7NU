@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Shining One",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2026-02-28T13:57:29.908126Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shining One (rex Luciferi)",
+      "artist": "Angel Corpse",
+      "has_synced": false,
+      "path": "select/01_Shining_One_(rex_Luciferi)_Angel_Corpse.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shining One (Re-recorded)",
+      "artist": "BE:FIRST",
+      "has_synced": true,
+      "path": "select/02_Shining_One_(Re-recorded)_BE_FIRST.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Shining One",
+      "artist": "Serocs",
+      "has_synced": false,
+      "path": "select/03_The_Shining_One_Serocs.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Walk with the Shining One",
+      "artist": "Pure Obsessions & Red Nights",
+      "has_synced": false,
+      "path": "select/04_A_Walk_with_the_Shining_One_Pure_Obsessions_&_Red_Nights.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Shining One",
+      "artist": "Lucifer in the Sky With Diamonds",
+      "has_synced": true,
+      "path": "select/05_The_Shining_One_Lucifer_in_the_Sky_With_Diamonds.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shining One (Rex Luciferi)",
+      "artist": "Angelcorpse",
+      "has_synced": false,
+      "path": "select/06_Shining_One_(Rex_Luciferi)_Angelcorpse.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shining One",
+      "artist": "BE:FIRST",
+      "has_synced": true,
+      "path": "select/07_Shining_One_BE_FIRST.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shining One",
+      "artist": "Angelcorpse",
+      "has_synced": false,
+      "path": "select/08_Shining_One_Angelcorpse.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shining One",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Shining_One_BE_FIRST.txt"
+    }
+  ]
+}
